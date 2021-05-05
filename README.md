@@ -1,9 +1,12 @@
-![Minimalist Sunrise Email Header(2)](https://user-images.githubusercontent.com/6893099/117155995-41be9300-ad8b-11eb-8b12-cd9bb21cc89e.gif)
+![Minimalist Sunrise Email Header(3)](https://user-images.githubusercontent.com/6893099/117157699-d07fdf80-ad8c-11eb-8b88-9a00b3c1c957.gif)
+
 ### Hey whats good! 👋
 
 <a href="https://www.linkedin.com/in/brent-west-0a76244/">
   <img align="left" alt="Brent's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+
 
 How's it going? I'm Brent, a polyglot Software Engineer with a knack for just getting things done. I've been working in Tech in a few different industries (FinTech, AdTech, MarTech) for quite some time, in a variety of capacities. Whether its testing, leading teams to acheive new goals, or solving complex business problems, my philosophy is to always improve and learn.
 
