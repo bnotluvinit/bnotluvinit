@@ -1,4 +1,6 @@
+![Minimalist Sunrise Email Header](https://user-images.githubusercontent.com/6893099/117142017-3b291f00-ad7d-11eb-9e6f-e3c4bbce96a5.gif)
 ### Hi there 👋
+
 
 <!--
 **bnotluvinit/bnotluvinit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
