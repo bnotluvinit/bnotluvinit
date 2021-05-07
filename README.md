@@ -12,6 +12,10 @@ I'm currently looking for mentorship opportunities (both giving and receiving) *
 
 **Languages and Tools:** 
 
+<code><img height="40" src="https://user-images.githubusercontent.com/6893099/117517981-0a5b0c80-af6c-11eb-8471-1a5f49249a31.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/6893099/117518229-efd56300-af6c-11eb-9126-9ea1ae2b855b.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/6893099/117518377-78540380-af6d-11eb-90ac-dec7b4653185.png"></code>
+
 
 
 
