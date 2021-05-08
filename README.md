@@ -1,3 +1,4 @@
+
 ![Minimalist Sunrise Email Header(3)](https://user-images.githubusercontent.com/6893099/117157699-d07fdf80-ad8c-11eb-8b88-9a00b3c1c957.gif)
 
 ### Hey whats good! 👋
@@ -15,6 +16,13 @@ I'm currently looking for mentorship opportunities (both giving and receiving) *
 <code><img height="40" src="https://user-images.githubusercontent.com/6893099/117517981-0a5b0c80-af6c-11eb-8471-1a5f49249a31.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/6893099/117518229-efd56300-af6c-11eb-9126-9ea1ae2b855b.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/6893099/117518377-78540380-af6d-11eb-90ac-dec7b4653185.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/6893099/117518532-15af3780-af6e-11eb-8de4-aa36feaddb1b.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/6893099/117518649-a0903200-af6e-11eb-9286-1139115cc781.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/6893099/117518729-eea53580-af6e-11eb-93d9-4e93214de174.png"></code> 
+<code><img height="40" src="https://user-images.githubusercontent.com/6893099/117518994-ef8a9700-af6f-11eb-8711-633a73801a17.png"></code> 
+<code><img height="40" src="https://user-images.githubusercontent.com/6893099/117519257-dd5d2880-af70-11eb-9781-16d0dc53d179.png"></code>
+
+
 
 
 
@@ -41,3 +49,5 @@ Here are some ideas to get you started:
 -->
 
 
+
+![524-5240809_aws-logo-svg-white-clipart](https://user-images.githubusercontent.com/6893099/117519257-dd5d2880-af70-11eb-9781-16d0dc53d179.png)
