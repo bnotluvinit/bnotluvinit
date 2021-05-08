@@ -23,7 +23,6 @@ I'm currently looking for mentorship opportunities (both giving and receiving) *
 <code><img height="40" src="https://user-images.githubusercontent.com/6893099/117518994-ef8a9700-af6f-11eb-8711-633a73801a17.png"></code> 
 <code><img height="40" src="https://user-images.githubusercontent.com/6893099/117519257-dd5d2880-af70-11eb-9781-16d0dc53d179.png"></code>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnotluvinit&layout=compact&theme=radical">
 
 
 
