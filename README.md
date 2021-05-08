@@ -11,6 +11,7 @@
 I'm currently looking for mentorship opportunities (both giving and receiving) **especially** Blacks in Tech, as well as fun open-source projects to contribute to. If any of that sounds cool, feel free to drop me a line!
 
 
+
 **Languages and Tools:** 
 
 <code><img height="40" src="https://user-images.githubusercontent.com/6893099/117517981-0a5b0c80-af6c-11eb-8471-1a5f49249a31.png"></code>
