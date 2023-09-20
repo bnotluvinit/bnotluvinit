@@ -32,7 +32,7 @@ I'm currently looking for mentorship opportunities (both giving and receiving) *
 - 🌱 I’m currently learning GoLang, Kubernetes 
 - 💬 Ask me about anything, especially 💻 ⛳ 🏀
 - 📫 How to reach me: <mailto:brent.t.west@gmail.com> <a href="https://www.linkedin.com/in/brent-west-0a76244/">
-  <img align="left" alt="Brent's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Brent's LinkedIN" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 <!--
 **bnotluvinit/bnotluvinit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
